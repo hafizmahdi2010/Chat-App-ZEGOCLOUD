@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow-x: hidden;
+  background-color: #000;
+  color: #fff;
+}
+
+html{
+  overflow-x: hidden;
+}
+
+.chats{
+  height: calc(90vh - 140px);
+  overflow: auto;
+}
